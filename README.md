@@ -6,8 +6,10 @@ A simple react app using Material Desgin components, dark mode, react hooks and 
 [https://helloworld-7e992.web.app/](https://helloworld-7e992.web.app/)
 
 ## Screenshots
+### Desktop
 ![Desktop Light](./screenshot/desktop-light.png)
 ![Desktop Dark](./screenshot/desktop-dark.png)
+### Mobile
 ![Mobile Light](./screenshot/mobile-light.jpeg)
 ![Mobile Dark](./screenshot/mobile-dark.jpeg)
 
